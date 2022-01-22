@@ -1,0 +1,2 @@
+maszyna r1 192.168.100.109 IIN_19_20_8 MACIEJ KOWNACKI
+maszyna docker_lab   192.168.100.110
